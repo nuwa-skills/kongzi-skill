@@ -240,6 +240,7 @@ kongzi-skill/
 
 | 人物 | 领域 | 安装 |
 |------|------|------|
+| [张雪.skill](https://github.com/Panmax/zhangxue-skill) | 机车/创业/决策 | `npx skills add Panmax/zhangxue-skill` |
 | [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/战略 | `npx skills add alchaincyf/steve-jobs-skill` |
 | [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/认知偏误/逆向思考 | `npx skills add alchaincyf/munger-skill` |
 | [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
